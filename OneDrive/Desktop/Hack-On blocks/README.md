@@ -69,8 +69,8 @@ The Travel Planner is a cutting-edge platform that empowers travelers to effortl
 
 1. Clone the repository:
     ```shell
-    git clone https://github.com/chemicoholic21/bc.git
-    cd travel-itinerary-generator
+    git clone https://github.com/chemicoholic21/HackOn-blocks.git
+    cd HackOn-blocks
     ```
 
 2. Install the required packages:
